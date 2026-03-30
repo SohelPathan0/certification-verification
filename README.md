@@ -217,4 +217,4 @@ Feel free to fork and adapt it for your own events.
 
 ---
 
-*Powered by Microsoft &amp; GitHub*
+                                                            *Powered by Microsoft &amp; GitHub*
