@@ -1,8 +1,5 @@
-# certificate-verification
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/12899f15-63de-4100-89b0-b1de95cf3ac5" />
-
-
 # 🎓 GitHub Copilot Dev Days | Mumbai — Certificate Verification
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/12899f15-63de-4100-89b0-b1de95cf3ac5" />
 
 > A GitHub Pages-powered certificate verification system for **GitHub Copilot Dev Days Mumbai**, organised by **Microsoft Student Ambassador** and **Dear Azure — Azure India**.
 
@@ -216,9 +213,3 @@ This project is open for use by community event organisers.
 Feel free to fork and adapt it for your own events.
 
 ---
-
-<div align="center">
-
-**Powered by Microsoft &amp; GitHub**
-
-</div>
